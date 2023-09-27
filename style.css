@@ -1,0 +1,15 @@
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .banner {
+    color:navy;
+    font-family: sans-serif;
+  }
+  .card-body{
+    background-color:cornflowerblue;
+  }
+  .card-header{
+    background-color:red;
+  }
